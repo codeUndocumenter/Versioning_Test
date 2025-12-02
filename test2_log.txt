@@ -1,0 +1,4 @@
+Add-In logs.
+Server interface: test2
+Creation date: 2025-10-02 T16:10:10
+
