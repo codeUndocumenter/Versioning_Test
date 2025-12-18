@@ -11,6 +11,7 @@ VERSION : 0.1
 
 
 BEGIN
+	// Comment for test
 	IF #i_test THEN
 	    #o_test := true;
 	ELSE
